@@ -1,3 +1,3 @@
 # Quantum Hackathon
 
-Instructions found [here](https://github.com/ctuning/ck-quantum/tree/master/module/hackathon.20190127)
+Instructions found [here](https://github.com/ctuning/ck-quantum/tree/master/module/hackathon.20190315)
